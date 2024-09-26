@@ -1,3 +1,4 @@
+![1000007937](https://github.com/user-attachments/assets/4e478372-9e16-4a1e-b6b0-57d86027885b)
 - 👋 Hi, I’m @sto-del
 - 👀 I’m interested in..learning new things especially in AI
 - 🌱 I’m currently learning ...python the hard way
